@@ -10,7 +10,7 @@ export default  async function Home() {
     </h1>
     <LoginButton >
     <Button variant="outline" size="lg">
-      click me bitch
+      click me
     </Button>
     </LoginButton>
 
